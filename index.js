@@ -13,7 +13,7 @@ function play(userAnswer, realAnswer) {
     score += 1;
     console.log("You're right!");
   } else {
-    score -= 1;
+    score -= 0.25;
     console.log("You're Wrong!")
   }
   console.log(`Current Score: ${score}`);
@@ -31,7 +31,7 @@ var questionsList = [
   },
   {
     que: "\nWhere do I study? ",
-    ans: "BITS"
+    ans: "IPS"
   },
   {
     que: "\nWhat's my dream destination to travel? ",
