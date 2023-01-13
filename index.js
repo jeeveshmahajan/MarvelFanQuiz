@@ -26,8 +26,8 @@ var questionsList = [
     ans: "6"
   },
   {
-    que: "\nWhere do I live? ",
-    ans: "Indore"
+    que: "\nCaptain America’s shield and Bucky's arm are made of what? ",
+    ans: "Vibranium"
   },
   {
     que: "\nWhere is Captain America from? ",
