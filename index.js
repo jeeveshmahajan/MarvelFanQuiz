@@ -22,24 +22,24 @@ function play(userAnswer, realAnswer) {
 // questions array
 var questionsList = [
   {
-    que: "\nWhat's my age: ",
-    ans: "21"
+    que: "\nHow many Infinity Stones are there in Marvel?: ",
+    ans: "6"
   },
   {
     que: "\nWhere do I live? ",
     ans: "Indore"
   },
   {
-    que: "\nWhere do I study? ",
-    ans: "IPS"
+    que: "\nWhere is Captain America from? ",
+    ans: "Brooklyn"
   },
   {
-    que: "\nWhat's my dream destination to travel? ",
-    ans: "Bali"
+    que: "\nWhat type of doctor is Doctor Strange? ",
+    ans: "Neurosurgeon"
   },
   {
-    que: "\nWhat's my favorite dish? ",
-    ans: "Baigan ka bharta"
+    que: "\nWhose power exceeds that of the sorceror supreme? ",
+    ans: "Wanda"
   }
 ];
 
